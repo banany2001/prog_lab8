@@ -1,0 +1,3 @@
+C:/My folder/Codes/prog_lab8/cmake-build-debug/CMakeFiles/prog_lab8.dir
+C:/My folder/Codes/prog_lab8/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/My folder/Codes/prog_lab8/cmake-build-debug/CMakeFiles/rebuild_cache.dir
